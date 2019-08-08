@@ -1,2 +1,0 @@
-# reactfirebase
-Created with CodeSandbox

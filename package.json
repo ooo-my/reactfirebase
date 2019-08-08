@@ -1,0 +1,24 @@
+{
+  "name": "reactfirebase-test",
+  "version": "1.0.0",
+  "description": "A sandbox in which you don't have to delete the Hello file, styles object, and such.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/new",
+  "main": "src/index.js",
+  "dependencies": {
+    "firebase": "4.7.0",
+    "react": "16.4.1",
+    "react-dom": "16.2.0",
+    "react-router": "5.0.1",
+    "react-router-dom": "5.0.1",
+    "react-scripts": "1.1.0",
+    "recompose": "0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
